@@ -1,0 +1,15 @@
+.recent-searches {
+  margin-top: 10px;
+  font-size: 13px;
+  color: rgb(148, 148, 148);
+}
+
+.recent-searches__icon {
+  display: flex;
+  justify-content: space-between;
+  padding: 30px;
+}
+.recent-searches__icon i {
+  margin-right: 20px;
+  opacity: 60%;
+}
